@@ -1,9 +1,9 @@
 # EstructurasIIRedSocial
 Red Social - Backend - Algoritmos y Estructura de Datos II - Java
 
-
-Algoritmos y Estructura de Datos II
-Modelo de Trabajo Práctico en Lenguaje JAVA
+Modelo de Trabajo Práctico 
+en Lenguaje JAVA
+para "Algoritmos y Estructura de Datos II"
 
 Requisitos de aprobación del trabajo
 - Entrega de código fuente sin errores de compilación o excepciones no capturadas
