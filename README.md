@@ -1,4 +1,4 @@
-# EstructurasIIRedSocial
+# EstructurasII - RedSocial
 Red Social - Backend - Algoritmos y Estructura de Datos II - Java
 
 Modelo de Trabajo Práctico 
@@ -6,10 +6,12 @@ en Lenguaje JAVA
 para "Algoritmos y Estructura de Datos II"
 
 Requisitos de aprobación del trabajo
+
 - Entrega de código fuente sin errores de compilación o excepciones no capturadas
 - Presentación del trabajo y verificación del cumplimiento de los requerimientos solicitados.
 
 Requerimientos mínimos del modelo
+
 Extensibilidad: Es necesario que el modelo pueda extenderse a nuevos tipos de publicaciones, cuentas,
 etc.
 Gestión de errores: El sistema debe capturar todos los errores posibles en tiempo de ejecución y
@@ -116,6 +118,7 @@ Tener en cuenta que no se deben contar usuarios seguidores repetidos, cada segui
 indirecto cuenta como uno en el alcance.
 
 Escenario de prueba
+
 Este escenario deberá ser preparado para presentar la fecha de entrega. Se solicita que se cumplan
 todos los puntos mencionados y luego existirá la posibilidad de realizar nuevas interacciones a través del
 menú que se pide a continuación.
