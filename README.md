@@ -1,4 +1,4 @@
-# EstructurasII - RedSocial
+# Algoritmos y Estructuras II - RedSocial
 Red Social - Backend - Algoritmos y Estructura de Datos II - Java
 
 Modelo de Trabajo Práctico 
